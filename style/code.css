@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box1 {
+    width: 40vw;
+    background-color: darkgray;
+    height: 50vh;
+    margin: 10px auto;
+    border: 3px solid green;
+}
